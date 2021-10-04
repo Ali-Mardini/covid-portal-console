@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f5cf48b3-312d-4d73-975c-6e017387d893": {
+      "ProjectGuid": "f5cf48b3-312d-4d73-975c-6e017387d893",
+      "DisplayName": "covid-portal-console",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

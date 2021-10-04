@@ -1,0 +1,16 @@
+C:\Users\ali.mardini\Desktop\covid-portal-console\covid-portal-console\bin\Debug\net5.0\covid-portal-console.exe
+C:\Users\ali.mardini\Desktop\covid-portal-console\covid-portal-console\bin\Debug\net5.0\covid-portal-console.deps.json
+C:\Users\ali.mardini\Desktop\covid-portal-console\covid-portal-console\bin\Debug\net5.0\covid-portal-console.runtimeconfig.json
+C:\Users\ali.mardini\Desktop\covid-portal-console\covid-portal-console\bin\Debug\net5.0\covid-portal-console.runtimeconfig.dev.json
+C:\Users\ali.mardini\Desktop\covid-portal-console\covid-portal-console\bin\Debug\net5.0\covid-portal-console.dll
+C:\Users\ali.mardini\Desktop\covid-portal-console\covid-portal-console\bin\Debug\net5.0\ref\covid-portal-console.dll
+C:\Users\ali.mardini\Desktop\covid-portal-console\covid-portal-console\bin\Debug\net5.0\covid-portal-console.pdb
+C:\Users\ali.mardini\Desktop\covid-portal-console\covid-portal-console\obj\Debug\net5.0\covid-portal-console.csproj.AssemblyReference.cache
+C:\Users\ali.mardini\Desktop\covid-portal-console\covid-portal-console\obj\Debug\net5.0\covid-portal-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.mardini\Desktop\covid-portal-console\covid-portal-console\obj\Debug\net5.0\covid-portal-console.AssemblyInfoInputs.cache
+C:\Users\ali.mardini\Desktop\covid-portal-console\covid-portal-console\obj\Debug\net5.0\covid-portal-console.AssemblyInfo.cs
+C:\Users\ali.mardini\Desktop\covid-portal-console\covid-portal-console\obj\Debug\net5.0\covid-portal-console.csproj.CoreCompileInputs.cache
+C:\Users\ali.mardini\Desktop\covid-portal-console\covid-portal-console\obj\Debug\net5.0\covid-portal-console.dll
+C:\Users\ali.mardini\Desktop\covid-portal-console\covid-portal-console\obj\Debug\net5.0\ref\covid-portal-console.dll
+C:\Users\ali.mardini\Desktop\covid-portal-console\covid-portal-console\obj\Debug\net5.0\covid-portal-console.pdb
+C:\Users\ali.mardini\Desktop\covid-portal-console\covid-portal-console\obj\Debug\net5.0\covid-portal-console.genruntimeconfig.cache
